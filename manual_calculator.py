@@ -2,7 +2,7 @@
 """
 Created on Fri Sep 30 11:39:57 2022
 
-@author: a248433
+@author: Januario Cipriano
 """
 
 import json
